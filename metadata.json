@@ -1,7 +1,0 @@
-{
-  "owner": "EndBug",
-  "name": "add-and-commit",
-  "visibility": "public",
-  "description": ":octocat: Automatically commit changes made in your workflow run directly to your repo",
-  "block_publish": false
-}
